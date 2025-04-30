@@ -1,0 +1,17 @@
+MetaData,,,,,,,,,,,,Calculated air properties,,Value,Units
+,,,,,Date (MM/DD/YYYY),,10/29/2024,,,,,Vapour saturation pressure (Buck equation),,2931.079,Pa
+,,,,Start Time (HH:MM),,15:30,End Time (HH:MM),,5:30:00 PM,,,Density,,1.302135,kg/m^3
+"Group name and persons in Group 1:   Aytahn Ben-avi, Diogo Filipe Cravo da Costa, Trey Gower, Tom van Aaken",,,,,,,,,,,,Dynamic viscosity,,1.84E-05,Pa*s
+,,,,,,,,,,,,Kinematic viscosity,,1.58E-05,m^2/s
+Notes and description,,,,,,"Tunnel Properties: Temperature: 23.7 C, Humidity: 51%, Pressure:  100458.5 Pa",,,,,,,,,
+,,,,,,,,,,,,,,,
+#,File Name,RPM,windspeed(m/s),AOA,Fx (N),Fy (N),Fz (N),Tx (N),Ty (N),Tz (N),Notes,,,,
+,AOA0_0_1,0.0000,0,0,0,-0.001,0.021,0,0,0,,,,,
+,AOA0_15_1,451.0000,14.8,,0.083,0.039,-0.301,-0.01,0.007,0.002,,,,,
+,AOA0_21.2_1,633.0000,20.8,,0.151,-0.02,-0.482,-0.009,0.012,0,,,,,
+,AOA0_30_1,889.0000,29.1,,0.273,-0.665,-0.708,0.054,0.023,-0.024,,,,,
+,AOA0_21.2_2,633.0000,20.6,,0.153,-0.014,-0.44,-0.01,0.012,0,,,,,
+,AOA0_15_2,451.0000,14.8,,0.075,0.043,-0.25,-0.011,0.006,0.002,,,,,
+,AOA0_30_2,889.0000,29.2,,0.267,-0.66,-0.652,0.053,0.022,-0.024,,,,,
+,AOA0_0_2,0.0000,0,,-0.008,-0.008,0.145,0,-0.001,-0.001,,,,,
+,,,,,,,,,,,,,,,
